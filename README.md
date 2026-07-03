@@ -270,12 +270,3 @@ To contribute:
 3. Commit your changes
 4. Push to your fork
 5. Open a pull request
-
----
-
-## 👨‍💻 Author
-
-**Marco Bitar**
-🎓 Computer Science Student
-📧 [bitar.marco21@gmail.com](mailto:bitar.marco21@gmail.com)
-🌐 [GitHub](https://github.com/MarcoBitar) | [LinkedIn](https://www.linkedin.com/in/marco-bitar-545046285)
